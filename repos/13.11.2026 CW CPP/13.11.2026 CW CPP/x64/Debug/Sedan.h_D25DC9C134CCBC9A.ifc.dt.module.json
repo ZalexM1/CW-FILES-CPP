@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Sedan.obj",
+            "outputs": [
+                "x64\\Debug\\Sedan.h_D25DC9C134CCBC9A.ifc.dt.module.json",
+                "x64\\Debug\\Sedan.h_D25DC9C134CCBC9A.ifc.dt.d.json",
+                "x64\\Debug\\Sedan.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\zmsol79\\source\\repos\\13.11.2026 CW CPP\\13.11.2026 CW CPP\\Sedan.h",
+                    "source-path": "c:\\users\\zmsol79\\source\\repos\\13.11.2026 cw cpp\\13.11.2026 cw cpp\\sedan.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
